@@ -2,6 +2,7 @@
 
 body {
     background-image: url("../img/paven.png");
+    min-width: 479px;
 }
 
 .bg-purple {
